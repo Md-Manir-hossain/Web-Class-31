@@ -1,0 +1,17 @@
+=========== Way of Declaring Varible =========
+1. General Way.
+2. Using let.
+3. Using var.
+4. Using const.
+
+====== Rules of declaring Varible =====
+
+Any Alphabet = (a, b, c, d, x, s, m, n, v, l etc.)
+Any words    = (mangoes, watermelon, apple, green, red. etc all type of meaningful words.)
+(অবশ্যই স্পেশাল ক্যারেক্টার Varible এ ব্যবহার করা যাবে না। যেমন- @, #, $, & etc.)
+
+========== Arithmatic Operator ===========
+Plus        = +
+Minus       = -
+Divided     = /
+            = *
